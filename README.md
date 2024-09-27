@@ -1,0 +1,1 @@
+Repository ini berisi hasil proyek yang saya kerjakan selama pelatihan pemrograman Python dasar dan pemrograman berorientasi objek (OOP) yang diselenggarakan oleh PCI NU Belanda. Di dalamnya, Anda akan menemukan berbagai hasil proyek yang saya kerjakan berdasarkan bimbingan dari tutor
